@@ -1,0 +1,4 @@
+streamlit
+scrapegraphai
+playwright
+# in case of missing dependencies type playwright install-deps
